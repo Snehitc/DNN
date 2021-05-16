@@ -1,0 +1,1 @@
+Z1,Z2,Z3,Z4, A1,A2,A3,A4,Y_hat = forward(W1,W2,W3,W4, b1,b2,b3,b4, X_test)
